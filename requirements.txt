@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision
+torchaudio
+h5py
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+opencv-python
+kagglehub
